@@ -1,0 +1,7 @@
+Running: xsim.dir/cnt10tb_behav/xsimk.exe -simmode gui -wdb cnt10tb_behav.wdb -simrunnum 0 -socket 53518
+Design successfully loaded
+Design Loading Memory Usage: 6020 KB (Peak: 6020 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 6740 KB (Peak: 6740 KB)
+Simulation CPU Usage: 46 ms
