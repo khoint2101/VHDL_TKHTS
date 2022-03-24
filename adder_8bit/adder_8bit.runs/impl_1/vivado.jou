@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Feb 15 16:45:46 2022
+# Process ID: 15964
+# Current directory: F:/Thiet_ke_he_thong_so/thuchanh/adder_8bit/adder_8bit.runs/impl_1
+# Command line: vivado.exe -log BCD_8bit.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source BCD_8bit.tcl -notrace
+# Log file: F:/Thiet_ke_he_thong_so/thuchanh/adder_8bit/adder_8bit.runs/impl_1/BCD_8bit.vdi
+# Journal file: F:/Thiet_ke_he_thong_so/thuchanh/adder_8bit/adder_8bit.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source BCD_8bit.tcl -notrace
