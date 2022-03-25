@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ls47_decode7seg_Khoi.srcs/sources_1/new/ls47_led7seg_Khoi.vhd" \
+"../../../../ls47_decode7seg_Khoi.srcs/sim_1/new/tp.vhd" \
+
+# Do not sort compile order
+nosort
